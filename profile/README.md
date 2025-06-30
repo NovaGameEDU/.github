@@ -1,24 +1,45 @@
-# NovaGameEDU
-> 專注於 AI 驅動的數位學習與遊戲化教育，致力於打造適用於各年齡層的互動式學習平台。
+# 🚀 NovaGameEDU
+> ✨ 專注於 AI 驅動的數位學習與遊戲化教育，致力於打造適用於各年齡層的互動式學習平台。
 
-<h4 align="center">
-    <p>
-        <b>繁體中文</b> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_zh-hans.md">简体中文</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_en.md">English</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_ko.md">한국어</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_es.md">Español</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_ja.md">日本語</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_hd.md">हिन्दी</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_ru.md">Русский</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_pt-br.md">Рortuguês</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_te.md">తెలుగు</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_fr.md">Français</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_de.md">Deutsch</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_vi.md">Tiếng Việt</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_ar.md">العربية</a> |
-        <a href="https://github.com/hNovaGameEDU/.github/blob/main/i18n/README_ur.md">اردو</a> |
-    </p>
-</h4>
+## 👥 關於我們
+- 組織創辦人 (Edit form: TsukiSama9292):
+    - 🧭 **組織精神**：促進教育平等化，打造優質且具啟發性的學習體驗。
+    - 🧑‍🎓 **面向客群**：涵蓋全年齡層學習者與教育者，包含 K-12、教師與終身學習者。
+    - 🛠️ **核心服務**：以數位平台為基礎，提供多元學習與教學工具：
+        - 🎮 **數位學習遊戲 (Cyber Scholar)**：融合遊戲機制與知識學習，提升動機。
+        - 🎇 **AI 輔助學習系統 (SparkEDUAI)**：即時提供解題分析、知識推薦與互動式學習建議。
+        - 🧑‍💻 **程式評測系統 (PulseJudge)**：支援自動化程式測試與題庫系統，適用於資訊課程。
+        - 📖 **教師教學平台 (NexusTeach)**：協助教師備課、出題、追蹤學生學習成效。
+    - 🌟 **平台特色**：
+        - 🤝 **高互動性**：整合即時回饋、AI 助教、多人學習互動。
+        - ⚡ **高即時性**：任務、學習路徑、挑戰賽皆可即時生成與回應。
+        - 📈 **高成長性**：根據學習歷程與成就，動態調整難度與內容。
+        - 🔗 **全端整合**：學習者無需跳出平台，即可享有完整的學習體驗。
 
-## 📚 關於我們
+---
+
+## 🎮 [數位學習教育遊戲 - Cyber Scholar](https://game.k12edu.uk)
+**Cyber Scholar** 是一款結合 AI 與 遊戲化機制 的數位學習遊戲，專為提升 **自主學習** 與 **適性學習** 成效而設計。
+
+### 🎯 特色功能
+- ⚛️ **服務整合**：遊戲中內建 AI 助理，學生無需切換視窗，即可獲得即時輔助與知識回饋。
+- 🧩 **彈性學習內容**：目前支援一般學科（如數學、自然）與資訊領域（如程式設計）練習。
+- 🪄 **輔助系統**：透過道具輔助與 AI 輔助系統，即時補強學生不熟悉的知識。
+- 🏅 **成就與回饋**：透過能力值、經驗值與裝備等方式，激發學習動機與持續學習。
+
+🌐 **[點此立即體驗](https://game.k12edu.uk)**  
+
+> 🎉 讓學生在遊戲中學習，在歡樂中成長，並在 AI 的輔助下超越自我。
+
+---
+
+## 🎇 AI 輔助學習系統 - SparkEDUAI
+**SparkEDUAI** 提供教育通用、課程化的 AI Agent 服務，並且提供題目生成、角色扮演...等特定服務。  
+
+### 🎯 特色功能
+- 🔥 **教育通用 Agent 設計**：進行邏輯性思維方式，分析、統整、回覆、鼓勵...等。
+- 🎛️ **功能模組化設計**：高度模組化各項功能，高效迭代 AI Agent 服務。 
+- 🧑‍🏫 **課程化 AI Agent(開發中)**：提供教師建立課程 AI Agent 與課程知識庫。
+- 🧠 **訓練模型**：透過合成資料與開源資料集，提高開源模型的能力，提升教育品質。
+
+---
